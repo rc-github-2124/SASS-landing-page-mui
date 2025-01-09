@@ -13,8 +13,7 @@ A responsive and modern SaaS landing page built using **React**, **Material UI**
 
 ## Tech Stack
 
-- **Frontend:** React, Material UI, Sass
-- **State Management:** (Optional) Redux, Context API
+- **Frontend:** React, Material UI
 - **Build Tool:** Webpack or Create React App
 
 ## Installation
