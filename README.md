@@ -50,7 +50,7 @@ A responsive and modern SaaS landing page built using **React**, **Material UI**
 5. ### Screenshots
    <img width="1280" alt="Screenshot 2025-01-12 at 12 52 53 AM" src="https://github.com/user-attachments/assets/2460645d-1c04-4c91-9baa-1379fa3ca71a" />
 <br/>
-   ![Screenshot 2025-01-12 at 12 53 27 AM](https://github.com/user-attachments/assets/ab4f6ac5-2c34-4ae4-93dc-384286848814)
+   <img width='1280' alt="Screenshot 2025-01-12 at 12 52 53 AM" src='https://github.com/user-attachments/assets/ab4f6ac5-2c34-4ae4-93dc-384286848814' />
 
 <br/><br/>
    <img width="1280" alt="Screenshot 2025-01-12 at 12 53 08 AM" src="https://github.com/user-attachments/assets/dade52c7-e251-4d82-bc1b-d60fde0f464a" />
